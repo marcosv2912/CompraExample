@@ -1,0 +1,11 @@
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.exe
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.deps.json
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.runtimeconfig.json
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.runtimeconfig.dev.json
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.dll
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\bin\Debug\netcoreapp3.0\CompraExample.pdb
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\obj\Debug\netcoreapp3.0\CompraExample.csprojAssemblyReference.cache
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\obj\Debug\netcoreapp3.0\CompraExample.AssemblyInfoInputs.cache
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\obj\Debug\netcoreapp3.0\CompraExample.AssemblyInfo.cs
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\obj\Debug\netcoreapp3.0\CompraExample.dll
+C:\Users\marcos.paixao\source\repos\CompraExample\CompraExample\obj\Debug\netcoreapp3.0\CompraExample.pdb
